@@ -36,6 +36,7 @@ public class Pokemon
 			healthPoint = hp;
 			attackPoint = ap;
 			defencePoint = dp;
+			// hey hows it goin
 			
 		}
 
